@@ -2,3 +2,4 @@ Name:D.Vetha Jerome
 Age:20
 collage:Sri Krishna College of Engineering and Technology
 Hobby:Hearing songs
+Technical skills:Coding ,basic repair works,web page creation and development 
